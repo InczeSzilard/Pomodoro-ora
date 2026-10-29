@@ -1,0 +1,6 @@
+com\mycompany\pomodoro_ora\model\Allapot.class
+com\mycompany\pomodoro_ora\model\PomodoroFigyelo.class
+com\mycompany\pomodoro_ora\view\PomodoroView.class
+com\mycompany\pomodoro_ora\view\BeallitasokDialog.class
+com\mycompany\pomodoro_ora\model\PomodoroModel.class
+com\mycompany\pomodoro_ora\Pomodoro_ora.class

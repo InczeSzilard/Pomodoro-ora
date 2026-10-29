@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.pomodoro_ora;
 
-/**
- *
- * @author szila
- */
+import com.mycompany.pomodoro_ora.view.PomodoroView;
+
 public class Pomodoro_ora {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // temporary: only to see the window, the buttons don't work yet
+        new PomodoroView().setVisible(true);
     }
 }
